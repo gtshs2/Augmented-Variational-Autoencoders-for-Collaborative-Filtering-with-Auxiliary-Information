@@ -1,6 +1,6 @@
 # Augmented-Variational-Autoencoders-for-Collaborative-Filtering-with-Auxiliary-Information
 Augmented Variational Autoencoders for Collaborative Filtering
-with Auxiliary Information (Lee et. al.) (CIKM-17) </br>
+with Auxiliary Information (Lee et al.) (CIKM-17) </br>
 <a href=https://dl.acm.org/doi/10.1145/3132847.3132972> PaperLink1 </a>
 <a href=https://aailab.kaist.ac.kr/xe2/board_international_conferences/17819> PaperLink2 </a>
 
